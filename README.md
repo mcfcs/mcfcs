@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**mcfcs/mcfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · SQL · Java · C++ · JavaScript · TypeScript · Bash · Solidity
+
+**ML & Data:** PyTorch · scikit-learn · Pandas · NumPy · NLP · Feature Engineering
+
+**Big Data:** Apache Spark · Hadoop · Hive · HBase · BigQuery · Apache Iceberg
+
+**Web:** React · Next.js · Django · Flask · Node.js · REST APIs
+
+**Databases & Cloud:** PostgreSQL · MySQL · Supabase · Google Cloud · AWS EC2
+
+**Tools:** Git · VS Code · IntelliJ · Tableau · Docker
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfcs&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfcs&layout=compact)
+
+---
