@@ -1,10 +1,7 @@
 # Hi, I'm Gio 😆 1
----
 
 ## Current Interests
-- Immortal Days, Golden Kamuy
-
----
+- Immortal Days, Golden Kamuy, Automation
 
 ## Tech Stack
 
@@ -43,20 +40,12 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
 ### Perfomative Meter
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mcfcs&theme=dark" alt="GitHub Streak"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcfcs&theme=github_dark" alt="Top Languages"/>
 </div>
----
 
 ## Connect with Me
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199034374406)
